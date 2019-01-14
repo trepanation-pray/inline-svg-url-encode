@@ -1,1 +1,1 @@
-inline-svg-url-encode
+Sass function for URL encoding SVG data
