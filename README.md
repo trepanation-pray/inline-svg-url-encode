@@ -1,0 +1,1 @@
+inline-svg-url-encode
